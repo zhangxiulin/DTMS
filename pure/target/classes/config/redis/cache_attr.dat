@@ -1,0 +1,6 @@
+[
+{"cache_name":"user_info","desc":"","cache_keys":["name"]},
+{"cache_name":"user_security","desc":"","cache_keys":["privateKey","publicKey", "aes"]},
+{"cache_name":"user_hr","desc":"","cache_keys":[]},
+{"cache_name":"user_device","desc":"","cache_keys":[]}
+]

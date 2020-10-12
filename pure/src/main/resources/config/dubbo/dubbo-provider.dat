@@ -1,0 +1,20 @@
+[{
+"rpcName":"dubbo",
+"dubbo.application.name":"pure-provider",
+"dubbo.application.qosPort":"22221",
+"dubbo.application.qosEnable":"false",
+"dubbo.application.qosAcceptForeignIp":"false",
+"dubbo.monitor.protocol":"registry",
+"dubbo.registry.address":"zookeeper://localhost:2181",
+"dubbo.protocol.name":"dubbo",
+"dubbo.protocol.port":"20881",
+"dubbo.protocol.threads":"200",
+"dubbo.service":[
+{"interface":"zh.shawn.project.pure.boot.service.contract.IRpcService", "ref":"pureRpcService"}
+],
+"bean":[
+{"id":"pureRpcService", "class":"zh.shawn.project.pure.boot.service.RpcService"}
+],
+"dubbo.service.version":"1.0.0",
+"enabled": "true"
+}]
