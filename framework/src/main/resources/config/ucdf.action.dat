@@ -1,7 +1,0 @@
-[
-{"supportXML":false,"servicePage":true,"serviceInterface":true,"updateSession":true,"label":"首页","enabled":true,"checkUserKey":false,"supportJson":true,"doClass":"org.gensis0.project.usms.business.home.HomePageService","needReturnData":false,"action":"main","supportJquery":false,"getSession":true},
-{"supportXML":false,"servicePage":false,"serviceInterface":true,"updateSession":true,"label":"测试1","enabled":true,"checkUserKey":false,"supportJson":true,"doClass":"zh.shawn.project.framework.boot.business.test.TestService","needReturnData":true,"action":"test","supportJquery":false,"getSession":true},
-{"supportXML":false,"servicePage":false,"serviceInterface":true,"updateSession":true,"label":"测试2","enabled":true,"checkUserKey":false,"supportJson":true,"doClass":"zh.shawn.project.framework.boot.business.test.sd.TestSessionDataService","needReturnData":true,"action":"test2","supportJquery":false,"getSession":true},
-{"supportXML":false,"servicePage":false,"serviceInterface":true,"updateSession":true,"label":"测试3","enabled":true,"checkUserKey":false,"supportJson":true,"doClass":"zh.shawn.project.framework.boot.business.test.rpc.TestRpcService","needReturnData":true,"action":"test3","supportJquery":false,"getSession":true},
-{"supportXML":false,"servicePage":false,"serviceInterface":true,"updateSession":true,"label":"测试4","enabled":true,"checkUserKey":false,"supportJson":true,"doClass":"zh.shawn.project.framework.boot.business.test.mongo.TestMongoService","needReturnData":true,"action":"test4","supportJquery":false,"getSession":true}
-]
