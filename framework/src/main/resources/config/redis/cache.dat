@@ -1,0 +1,6 @@
+[
+{"cache_name":"user_info","desc":"","ip":"39.99.174.15","port":"6379","pool.maxTotal":"100","pool.maxIdle":"10","pool.minIdle":"5","pool.maxWaitMillis":"10000","pool.testOnBorrow":"true","pool.testOnReturn":"true","pool.timeBetweenEvictionRunsMillis":"30000","pool.testWhileIdle":"true","pool.numTestsPerEvictionRun":"5"},
+{"cache_name":"user_security","desc":"","ip":"39.99.174.15","port":"6379","pool.maxTotal":"100","pool.maxIdle":"10","pool.minIdle":"5","pool.maxWaitMillis":"10000","pool.testOnBorrow":"true","pool.testOnReturn":"true","pool.timeBetweenEvictionRunsMillis":"30000","pool.testWhileIdle":"true","pool.numTestsPerEvictionRun":"5"},
+{"cache_name":"user_hr","desc":"","ip":"39.99.174.15","port":"6379","pool.maxTotal":"100","pool.maxIdle":"10","pool.minIdle":"5","pool.maxWaitMillis":"10000","pool.testOnBorrow":"true","pool.testOnReturn":"true","pool.timeBetweenEvictionRunsMillis":"30000","pool.testWhileIdle":"true","pool.numTestsPerEvictionRun":"5"},
+{"cache_name":"user_device","desc":"","ip":"39.99.174.15","port":"6379","pool.maxTotal":"100","pool.maxIdle":"10","pool.minIdle":"5","pool.maxWaitMillis":"10000","pool.testOnBorrow":"true","pool.testOnReturn":"true","pool.timeBetweenEvictionRunsMillis":"30000","pool.testWhileIdle":"true","pool.numTestsPerEvictionRun":"5"}
+]
