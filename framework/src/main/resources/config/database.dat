@@ -1,0 +1,15 @@
+[{
+    "datasourceName": "CT",
+	"driverClass": "com.mysql.jdbc.Driver",
+	"username": "root",
+	"password": "123456",
+	"url": "jdbc:mysql://127.0.0.1:3306/CT",
+	"idleTime": "30000",
+	"autoCommit": "true",
+	"poolName": "default",
+	"registerMbean": "true",
+	"catalog": "",
+	"maxPoolSize": "10",
+	"minIdle": "2",
+	"readOnly": "false"
+}]

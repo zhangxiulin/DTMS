@@ -1,6 +1,6 @@
 package zh.shawn.project.usms.business.scLogin;
 
-import zh.shawn.project.pure.commons.service.core.CommonServiceRequestData;
+import zh.shawn.project.framework.commons.service.core.CommonServiceRequestData;
 
 public class ScLoginServiceReq extends CommonServiceRequestData {
 

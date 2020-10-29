@@ -6,7 +6,7 @@
   <servlet>
     <display-name>主服务</display-name>
     <servlet-name>coreService</servlet-name>
-    <servlet-class>zh.shawn.project.pure.boot.service.CoreService</servlet-class>
+    <servlet-class>zh.shawn.project.framework.boot.service.CoreService</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>coreService</servlet-name>
@@ -16,7 +16,7 @@
   <servlet>
     <display-name>初始化服务</display-name>
     <servlet-name>initService</servlet-name>
-    <servlet-class>zh.shawn.project.pure.boot.service.InitService</servlet-class>
+    <servlet-class>zh.shawn.project.framework.boot.service.InitService</servlet-class>
     <init-param>
       <param-name>configFile</param-name>
       <param-value>config/ucdf.default.properties</param-value>

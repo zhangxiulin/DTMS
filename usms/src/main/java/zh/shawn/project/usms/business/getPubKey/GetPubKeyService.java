@@ -1,9 +1,9 @@
 package zh.shawn.project.usms.business.getPubKey;
 
 import org.apache.log4j.Logger;
-import zh.shawn.project.pure.boot.utils.RSAUtils2;
-import zh.shawn.project.pure.commons.exception.ServiceBusinessException;
-import zh.shawn.project.pure.commons.service.core.CommonBusinessService;
+import zh.shawn.project.framework.boot.utils.RSAUtils2;
+import zh.shawn.project.framework.commons.exception.ServiceBusinessException;
+import zh.shawn.project.framework.commons.service.core.CommonBusinessService;
 
 
 public class GetPubKeyService extends CommonBusinessService<GetPubKeyServiceReq, GetPubKeyServiceRep, GetPubKeyServiceSessionData> {

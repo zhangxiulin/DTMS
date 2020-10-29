@@ -1,6 +1,6 @@
 package zh.shawn.project.usms.business.showMain;
 
-import zh.shawn.project.pure.commons.service.core.CommonServiceResponseData;
+import zh.shawn.project.framework.commons.service.core.CommonServiceResponseData;
 
 public class ShowMainServiceRep extends CommonServiceResponseData {
 

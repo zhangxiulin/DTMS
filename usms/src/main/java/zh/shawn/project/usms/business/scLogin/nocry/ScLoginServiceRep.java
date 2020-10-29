@@ -1,6 +1,6 @@
 package zh.shawn.project.usms.business.scLogin.nocry;
 
-import zh.shawn.project.pure.commons.service.core.CommonServiceResponseData;
+import zh.shawn.project.framework.commons.service.core.CommonServiceResponseData;
 
 import java.util.List;
 

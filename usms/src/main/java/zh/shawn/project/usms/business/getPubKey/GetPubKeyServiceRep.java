@@ -1,6 +1,6 @@
 package zh.shawn.project.usms.business.getPubKey;
 
-import zh.shawn.project.pure.commons.service.core.CommonServiceResponseData;
+import zh.shawn.project.framework.commons.service.core.CommonServiceResponseData;
 
 public class GetPubKeyServiceRep extends CommonServiceResponseData {
 
